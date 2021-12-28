@@ -1,12 +1,12 @@
 {
-  "name": "matthe-öneri-sikayet-main",
+  "name": "borangkdn-öneri-sikayet-main",
   "version": "1.0.0",
   "description": "",
-  "main": "matthe.js",
+  "main": "borangkdn.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Matthe",
+  "author": "BoranGkdn",
   "license": "MIT",
   "dependencies": {}
 }
